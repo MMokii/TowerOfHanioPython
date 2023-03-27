@@ -10,5 +10,8 @@ $ git clone https://github.com/MMokii/TowerOfHanioPython
 Go into the repository
 ```bash
 $ cd TowerOfHanioPython
-$ cd python3 MolnarMatejTowerOfHanoi.py
-
+```
+Start program with python
+```bash
+$ python3 MolnarMatejTowerOfHanoi.py
+```
